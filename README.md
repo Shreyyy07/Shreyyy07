@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m currently learning React JS , Tailwind CSS , Flutter <br>⚡ Fun fact : I'm a Web Development Enthusiast currently studying in SRM Institute of Science and Technology 
+🔭 I’m currently working on Web Development<br>👯 Currently learning React JS , Tailwind CSS <br>⚡ Fun fact : I'm a Web Development Enthusiast currently studying in SRM Institute of Science and Technology 
 
 
 ## 🌐 Socials:
