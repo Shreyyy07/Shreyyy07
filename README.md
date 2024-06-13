@@ -1,9 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 Currently learning React JS , Tailwind CSS <br>
+<h1 align="center">Hi 👋, Shrey Joshi Here</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shreyyy16#5371) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/shreyyy___07?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/shrey-joshi-1b038a249) 
+- 🌱 I’m currently learning **React, Node JS**
+
+- 👯 I’m looking to collaborate on **Web Applications**
+
+- 👨‍💻 All of my projects are available at [https://shreyyy07.github.io/React-Portfolio/](https://shreyyy07.github.io/React-Portfolio/)
+
+- 📫 How to reach me **shreyjoshi1394@gmail.com**
 
 # 💻 Tech Stack:
 <p align="center">
@@ -18,18 +23,22 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyyy07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyyy07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyy07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreyyy07&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreyyy07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyyy07&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyy07" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Shreyyy07&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyyy07" alt="shreyyy07" /></a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shrey-joshi-1b038a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrey-joshi-1b038a249/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/https://instagram.com/shreyyy___07?igshid=ymmymta2m2y%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/https://instagram.com/shreyyy___07?igshid=ymmymta2m2y%3d" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/shreyyy___07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shreyyy___07/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/shreyyy16#5371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/shreyyy16#5371" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyyy07&show_icons=true&locale=en&layout=compact" alt="shreyyy07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyyy07&show_icons=true&locale=en" alt="shreyyy07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyyy07&" alt="shreyyy07" /></p>
