@@ -33,11 +33,3 @@
 [![](https://visitcount.itsvg.in/api?id=Shreyyy07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-I Mostly Code in HTML
-
-HTML                     45 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-JavaScript               37 repos            ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
