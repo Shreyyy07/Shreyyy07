@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://shreyyy07.github.io/React-Portfolio/](https://shreyyy07.github.io/React-Portfolio/)
 
+- My LeetCode profile is https://leetcode.com/u/shreyyy___07/
+
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
 # 💻 Tech Stack:
