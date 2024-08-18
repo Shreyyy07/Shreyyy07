@@ -8,10 +8,23 @@
 
 - 👨‍💻 All of my projects are available at [https://shreyyy07.github.io/React-Portfolio/](https://shreyyy07.github.io/React-Portfolio/)
 
-- My LeetCode profile is https://leetcode.com/u/shreyyy___07/
+- My LeetCode profile https://leetcode.com/u/shreyyy___07/
 
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
+  <br>
+
+<h2 align="center">Leetcode Info<h2>
+
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shreyyy___07?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<p align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=shreyyy___07&theme=dark&animated=true" alt="LeetCode Badges"/>
+  </p>
+  
 # 💻 Tech Stack:
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
