@@ -10,6 +10,8 @@
 
 - My LeetCode profile https://leetcode.com/u/shreyyy___07/
 
+- My Resume - https://drive.google.com/file/d/1jEHlkYJr3r1d_neFFnzQQFYFV4z_dVmb/view?usp=sharing
+
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
   <br>
