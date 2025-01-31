@@ -10,7 +10,7 @@
 
 - My LeetCode profile https://leetcode.com/u/shreyyy___07/
 
-- My Whole Competative Programming Journey https://codolio.com/profile/kbygUcjT
+- My Whole Competitive Programming Journey https://codolio.com/profile/kbygUcjT
 
 - My Resume - https://drive.google.com/file/d/1xqfEyKayShB3TT_lVJM5TpYUOKswIJW_/view?usp=sharing
 
