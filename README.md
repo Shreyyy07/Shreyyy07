@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Shrey Joshi Here</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **React, Node JS**
+- 🌱 I’m currently learning **Next.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
