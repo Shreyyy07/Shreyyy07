@@ -12,7 +12,7 @@
 
 - My Whole Competitive Programming Journey https://codolio.com/profile/kbygUcjT
 
-- My Resume - https://drive.google.com/file/d/11nlli4TQ5b0PH3TpViQwXzY-5X9urghc/view?usp=drive_link
+- My Resume - https://drive.google.com/file/d/1PMOYNvTY9E83C9FeFh9RfObA8NV8wO_d/view?usp=sharing
 
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
