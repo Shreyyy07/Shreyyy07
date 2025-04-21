@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Shrey Joshi Here</h1>
+<h1 align="center">Hi 👋, Shrey Here</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 
@@ -28,6 +28,11 @@
 <p align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=shreyyy___07&theme=dark&animated=true" alt="LeetCode Badges"/>
   </p>
+
+<h2 align="center">📈 My Coding Activity</h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 # 💻 Tech Stack:
 <p align="center">
