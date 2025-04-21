@@ -2,14 +2,26 @@ name: WakaTime Stats Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs once a day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   update-readme:
-    name: Update README with WakaTime stats
+    name: Update WakaTime stats in README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: WakaTime Readme Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LOC_CHART: false
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
