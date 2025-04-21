@@ -16,7 +16,7 @@ jobs:
       - name: WakaTime Readme Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ waka_725c3ffc-82ef-472d-84b9-211c0569f02f }}
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
