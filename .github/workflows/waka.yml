@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Runs every day at 00:00 UTC
   workflow_dispatch: # Allow manual trigger
 
+permissions:
+  contents: write   
+
 jobs:
   update-readme:
     name: Update WakaTime stats in README
