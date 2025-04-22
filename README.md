@@ -32,8 +32,6 @@
 <h2 align="center">📈 My Coding Activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -88,7 +86,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/04/2025 15:03:11 UTC
+ Last Updated on 22/04/2025 01:46:55 UTC
 <!--END_SECTION:waka-->
   
 # 💻 Tech Stack:
