@@ -40,6 +40,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 414 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -94,7 +96,7 @@ Windows                  2 hrs 52 mins       ███████████�
 ```
 
 
- Last Updated on 23/05/2025 01:50:43 UTC
+ Last Updated on 24/05/2025 01:46:57 UTC
 <!--END_SECTION:waka-->
   
 # 💻 Tech Stack:
