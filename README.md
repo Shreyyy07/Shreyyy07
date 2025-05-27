@@ -40,8 +40,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 414 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -88,7 +86,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/05/2025 01:54:30 UTC
+ Last Updated on 27/05/2025 01:50:01 UTC
 <!--END_SECTION:waka-->
   
 # 💻 Tech Stack:
