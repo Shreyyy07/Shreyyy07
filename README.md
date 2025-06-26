@@ -74,22 +74,20 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     29 mins             ██████████████████░░░░░░░   72.44 % 
-JavaScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Builder-Admin (Backend)  32 mins             ████████████████████░░░░░   79.87 % 
-Resume-Builder-Applicatio8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/06/2025 01:55:49 UTC
+ Last Updated on 26/06/2025 01:54:33 UTC
 <!--END_SECTION:waka-->
   
 # 💻 Tech Stack:
