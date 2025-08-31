@@ -31,13 +31,13 @@
 <h2 align="center">📈 My Coding Activity</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2059%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-397.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 683 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +85,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2025 01:40:11 UTC
+ Last Updated on 31/08/2025 01:50:07 UTC
 <!--END_SECTION:waka-->
   
 
