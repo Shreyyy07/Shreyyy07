@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋 Shrey Here</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
-- 🌱 I’m currently learning **Next.js, Node.js**
-
 - 👯 I’m looking to collaborate on **Web Applications**
 
 - 👨‍💻 My Personal Portfolio https://shreyyy07.github.io/React-Portfolio/
@@ -12,7 +9,7 @@
 
 - My Whole Competitive Programming Journey https://codolio.com/profile/kbygUcjT
 
-- My Resume - https://drive.google.com/file/d/1zJifupQQF2JRMvERFYjYu53BS9FHQy_i/view?usp=sharing
+- My Resume - https://drive.google.com/file/d/1wlR1aTbIXgInaw-CX-vR3GfVZR3wyxh6/view?usp=sharing
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
   <br>
