@@ -25,7 +25,7 @@
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=shreyyy___07&theme=dark&animated=true" alt="LeetCode Badges"/>
   </p>
 
-<h2 align="center">📈 My Coding Activity</h2>
+<h2 align="center">📈 My Coding Profile</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2059%20mins-blue)
