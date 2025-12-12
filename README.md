@@ -89,21 +89,29 @@ No Activity Tracked This Week
   
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyyy07&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyy07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/? username=shreyyy07&label=Profile%20views&color=0e75b6&style=flat" alt="shreyyy07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyyy07" alt="shreyyy07" /></a> </p>
+<!-- GitHub Trophies with better configuration -->
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shreyyy07&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shrey-joshi-1b038a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrey-joshi-1b038a249/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shreyyy___07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shreyyy___07/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/shreyyy16#5371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/shreyyy16#5371" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shrey-joshi-1b038a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt. svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shreyyy___07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/shreyyy16#5371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyyy07&show_icons=true&locale=en&layout=compact" alt="shreyyy07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyyy07&show_icons=true&locale=en&layout=compact&theme=dark" alt="shreyyy07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyyy07&show_icons=true&locale=en" alt="shreyyy07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyyy07&show_icons=true&locale=en&theme=dark" alt="shreyyy07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyyy07&" alt="shreyyy07" /></p>
+<!-- Updated Streak Stats with alternative service -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shreyyy07&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
 
