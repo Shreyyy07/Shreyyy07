@@ -3,13 +3,15 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 👨‍💻 My Personal Portfolio https://shreyyy07.github.io/React-Portfolio/
+- 👨‍💻 My Personal Portfolio - https://shreyyy07.github.io/React-Portfolio/
 
-- My LeetCode profile https://leetcode.com/u/shreyyy___07/
+- My LeetCode profile - https://leetcode.com/u/shreyyy___07/
 
-- My Whole Competitive Programming Journey https://codolio.com/profile/kbygUcjT
+- My Whole Competitive Programming Journey - https://codolio.com/profile/kbygUcjT
 
-- My Resume - https://drive.google.com/file/d/1wlR1aTbIXgInaw-CX-vR3GfVZR3wyxh6/view?usp=sharing
+- My Resume - https://drive.google.com/file/d/1pYL1w2i6x--mFLzkTOQW2NT0Y58E8Ntg/view?usp=sharing
+
+- All my Certifications - https://drive.google.com/drive/folders/1Mfr3lhn7M46rUhBKYJB68dcuU-3I4Mwq
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
   <br>
