@@ -30,9 +30,9 @@
 <h2 align="center">📈 My Coding Profile</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -86,7 +86,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 02:11:30 UTC
+ Last Updated on 06/01/2026 02:01:34 UTC
 <!--END_SECTION:waka-->
   
 
