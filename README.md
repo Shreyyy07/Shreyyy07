@@ -11,6 +11,8 @@
 
 - My Resume - https://drive.google.com/file/d/1pYL1w2i6x--mFLzkTOQW2NT0Y58E8Ntg/view?usp=sharing
 
+- Linktree - https://linktr.ee/shreyyy07
+
 - All my Certifications - https://drive.google.com/drive/folders/1Mfr3lhn7M46rUhBKYJB68dcuU-3I4Mwq
 - 📫 How to reach me **shreyjoshi1394@gmail.com**
 
