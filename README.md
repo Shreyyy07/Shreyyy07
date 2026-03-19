@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Shrey Here</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Developer who likes to explore tech</h3>
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
