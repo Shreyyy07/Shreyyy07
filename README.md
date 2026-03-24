@@ -183,7 +183,7 @@ No Activity Tracked This Week
 
 <br>
 
-**[🔗 View Project](#) • [💻 GitHub](#)]**
+**[🔗 View Project](https://github.com/Shreyyy07/two-tier-flask-MySQL-app-with-jenkins)**
 
 ---
 
@@ -213,7 +213,7 @@ No Activity Tracked This Week
 
 <br>
 
-**[🔗 View Project](#) • [💻 GitHub](#)]**
+**[🔗 View Project](https://github.com/Shreyyy07/Vocalyst-Working-Tree)**
 
 ---
 
@@ -243,7 +243,7 @@ No Activity Tracked This Week
 
 <br>
 
-**[🔗 View Project](#) • [💻 GitHub](#)]**
+**[🔗 View Project](https://github.com/Shreyyy07/BharatHealth)**
 
 ---
 
@@ -272,7 +272,7 @@ No Activity Tracked This Week
 
 <br>
 
-**[🔗 View Project](#) • [💻 GitHub](#)]**
+**[🔗 View Project](https://github.com/Shreyyy07/Project_Tayyari.AI)**
 
 ---
 
