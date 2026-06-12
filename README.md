@@ -21,6 +21,7 @@ I'm a passionate full-stack developer with a strong foundation in competitive pr
 - 🌱 Currently learning Advanced System Design
 - 📧 Email: **shreyjoshi1394@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1U9g1xkkmHwT_GO8kaMrreOEcVLmRXdXD/view?usp=sharing)
+- 🙋‍♂️ [Portfolio](https://shrey-portfolio-orpin.vercel.app/)
 
 
 
